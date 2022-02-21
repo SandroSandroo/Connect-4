@@ -4,9 +4,7 @@
 
 The game is won when a player makes four in a row (horizontally, vertically, or diagonally). The game is a tie if the entire board fills up without a winner.</h3>
 
-<h2>try out the game:</h2>
 
-  sandrosandroo.github.io/connect-4/
 
 
 ![conect4 img](/img/conent4.png)
